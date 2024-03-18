@@ -15,51 +15,51 @@ Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso
 Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna. Inoltre, i vari capitoli sono anche allegati qui in PDF per facilitarne la stampa, se necessario.
 
 1. Introduzione al corso
-   * slide: [Google Slides](https://tinyurl.com/bi1819-00)
+   * slide: [PDF](https://basic-inf.github.io/2022-2023/slides/00.pdf)
    <hr />
 
 2. Le tecnologie informatiche nelle scienze umane
-   * slide: [Google Slides](https://tinyurl.com/bi1819-09)
+   * slide: [PDF](https://basic-inf.github.io/2022-2023/slides/01.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2022-2023/chapters/09.pdf)
     <hr />
    
 3. Computer, pensiero computazionale e strutture dati
-   * slide: [Google Slides](https://tinyurl.com/bi1819-01)
+   * slide: [PDF](https://basic-inf.github.io/2022-2023/slides/02.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2022-2023/chapters/01.pdf)
    <hr />
 
 4. Algoritmi e computabilità
-   * slide: [Google Slides](https://tinyurl.com/bi1819-02)
+   * slide: [PDF](https://basic-inf.github.io/2022-2023/slides/03.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2022-2023/chapters/02.pdf)
    <hr />
 
 5. Linguaggi di programmazione
-   * slide: [Google Slides](https://tinyurl.com/bi1819-03)
+   * slide: [PDF](https://basic-inf.github.io/2022-2023/slides/04.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2022-2023/chapters/03.pdf)
    <hr />
 
 6. Cosa succede quando si clicca un link: Il World Wide Web
-   * slide: [Google Slides](https://tinyurl.com/bi1819-04)
+   * slide: [PDF](https://basic-inf.github.io/2022-2023/slides/05.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2022-2023/chapters/04.pdf)
    <hr />
 
 7. Cosa succede quando si clicca un link: I protocolli di comunicazione
-   * slide: [Google Slides](https://tinyurl.com/bi1819-05)
+   * slide: [PDF](https://basic-inf.github.io/2022-2023/slides/06.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2022-2023/chapters/05.pdf)
    <hr />
 
 8. Cosa succede quando si clicca un link: Internet
-   * slide: [Google Slides](https://tinyurl.com/bi1819-06)
+   * slide: [PDF](https://basic-inf.github.io/2022-2023/slides/07.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2022-2023/chapters/06.pdf)
    <hr />
 
 9. Cosa succede quando si clicca un link: Trasferire informazioni su Internet
-   * slide: [Google Slides](https://tinyurl.com/bi1819-07)
+   * slide: [PDF](https://basic-inf.github.io/2022-2023/slides/08.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2022-2023/chapters/07.pdf)
    <hr />
 
 10. Cosa succede quando si clicca un link: Le pagine web
-    * slide: [Google Slides](https://tinyurl.com/bi1819-08)
+    * slide: [PDF](https://basic-inf.github.io/2022-2023/slides/09.pdf)
     * capitolo: [PDF](https://basic-inf.github.io/2022-2023/chapters/08.pdf)
     * materiale:
       * [CSS Zen Garden](http://www.csszengarden.com/)
@@ -67,7 +67,8 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
     <hr />
 
 11. Wrap-up
-    <br />
+    * slide: [PDF](https://basic-inf.github.io/2022-2023/slides/10.pdf)
+
 
 
 ### Calendario
